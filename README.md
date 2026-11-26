@@ -23,7 +23,7 @@ http://testingchallenges.thetestingmap.org/index.php with answers
 * Maximum values<br>
   AmberAmberAmberAmberAmber
 * Basic XSS<br>
-  <img src=x onerror=alert(1)>
+  `<img src=x onerror=alert(1)>`
 * You used html tags<br>
   <strong>Gheorghe_
 * More than maximum values<br>
